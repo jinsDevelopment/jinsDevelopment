@@ -1,16 +1,21 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=JinsDev&fontAlign=70&fontAlignY=40&animation=twinkling)
 
-<!--
-**jinsDevelopment/jinsDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<h3 align="center">📌 STACK </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+  <h3> Today 😎 </h3>
+
+
+<br>
+<br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejinseo95)](https://solved.ac/leejinseo95)
+
+<br>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+
